@@ -34,7 +34,7 @@ while True:
 
 while True:
     #presenting the menu to the user and 
-    # making sure that the user input is coneverted to lower case.
+    # making sure that the user input is converted to lower case.
     if login_username == "admin":
         menu = input('''Select one of the following Options below:
 r - Registering a user
