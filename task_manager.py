@@ -46,7 +46,6 @@ e - Exit
 : ''').lower()
     else:
         menu = input('''Select one of the following Options below:
-r - Registering a user
 a - Adding a task
 va - View all tasks
 vm - view my task
